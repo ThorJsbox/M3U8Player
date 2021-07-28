@@ -3,5 +3,9 @@
 官网:
 https://cdn.jsdelivr.net/
 
+https://ghproxy.com/
+
 例子:
 https://cdn.jsdelivr.net/gh/thorjsbox/Player@master/LiveList.m3u
+
+https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/Player/master/JiexiList.json
